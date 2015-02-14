@@ -1,0 +1,88 @@
+Feb 14, 2015 11:29:25 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Feb 14, 2015 11:29:25 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:25 CST 2015] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Feb 14, 2015 11:29:25 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:25 CST 2015] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Feb 14, 2015 11:29:25 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Feb 14, 2015 11:29:25 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Feb 14, 2015 11:29:25 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Feb 14, 2015 11:29:25 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Feb 14, 2015 11:29:25 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Heap Analysis of /home/zuo/IdeaProjects/jvm-practice/memory/heap.out(File Size:3,092,989 bytes) started
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Requesting 203,584 bytes of Java heap.
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Requesting 101,792 bytes of Java heap.
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Requesting 101,792 bytes of Java heap.
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Requesting 101,792 bytes of Java heap.
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Requesting 25,448 bytes of Java heap.
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Requesting 101,792 bytes of Java heap.
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Requesting 101,792 bytes of Java heap.
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Requesting 25,448 bytes of Java heap.
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Requesting 50,896 bytes of Java heap.
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Requesting 28,628 bytes of Java heap.
+Feb 14, 2015 11:29:29 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:29 CST 2015] Heap Analysis of heap.out completed in 00:00:00
+Feb 14, 2015 11:29:30 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:29:30 CST 2015] IBM Heap Analyzer index file: /home/zuo/IdeaProjects/jvm-practice/memory/heap.out.hax completed in 00:00:00
+Feb 14, 2015 11:29:41 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer is up to date as of Sat Feb 14 23:29:41 CST 2015
+Feb 14, 2015 11:35:04 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer version 4.5.6 started.
+Feb 14, 2015 11:35:04 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:04 CST 2015] Inspecting class:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Feb 14, 2015 11:35:04 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:04 CST 2015] Loading plugin:com.ibm.jinwoo.heap.plugin.DOMParserPlugin
+Feb 14, 2015 11:35:04 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Name:dom4j parser plug-in
+Feb 14, 2015 11:35:04 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Version:1.1
+Feb 14, 2015 11:35:04 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Details:Displays dom4j v1.6.1 instances in tree view on selection event
+Feb 14, 2015 11:35:04 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Author:Jinwoo Hwang (c)Copyright 2013-2014 IBM Corp.
+Feb 14, 2015 11:35:04 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: Registered SelectionPlugin method:onSelectionChange
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Heap Analysis of /home/zuo/IdeaProjects/jvm-practice/memory/heap.out(File Size:3,092,989 bytes) started
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Requesting 203,584 bytes of Java heap.
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Requesting 101,792 bytes of Java heap.
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Requesting 101,792 bytes of Java heap.
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Requesting 101,792 bytes of Java heap.
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Requesting 25,448 bytes of Java heap.
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Requesting 101,792 bytes of Java heap.
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Requesting 101,792 bytes of Java heap.
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Requesting 25,448 bytes of Java heap.
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Requesting 50,896 bytes of Java heap.
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Requesting 28,628 bytes of Java heap.
+Feb 14, 2015 11:35:05 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:05 CST 2015] Heap Analysis of heap.out completed in 00:00:00
+Feb 14, 2015 11:35:06 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: [Sat Feb 14 23:35:06 CST 2015] IBM Heap Analyzer index file: /home/zuo/IdeaProjects/jvm-practice/memory/heap.out.hax completed in 00:00:00
+Feb 14, 2015 11:35:18 PM com.ibm.jinwoo.heap.ConsolePrintStream println
+INFO: IBM HeapAnalyzer is up to date as of Sat Feb 14 23:35:18 CST 2015
