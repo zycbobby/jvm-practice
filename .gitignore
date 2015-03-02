@@ -13,5 +13,5 @@ hs_err_pid*
 
 # IDEA
 .idea/
-jvm-practice.xml
+jvm-practice.iml
 target/
